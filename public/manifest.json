@@ -1,0 +1,17 @@
+{
+  "name": "Hope's Corner Meal Tracker",
+  "short_name": "Meal Tracker",
+  "description": "Track and assign meals for guests at Hope's Corner with speed and clarity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
